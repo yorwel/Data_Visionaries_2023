@@ -1,0 +1,7 @@
+sample 1 and 2 name of restaurants dont match
+sample 1 and 2 has restaurants at the same area
+sample 1 and 3 has lat and lng, but 2 and 4 dont have. so 2 and 4 able to put on pwoerbi map?
+all the addresses btw all 4 sets of data are different.
+
+can use map in powerbi to create restaurants in a prefecture and sorted by price
+question is if you are a japanese chef and you want to set up a shop in japan, where will you set up at, how much should you be selling and what you should be selling?
